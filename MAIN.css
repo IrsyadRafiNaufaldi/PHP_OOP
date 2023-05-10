@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.Head{
+    background-color: antiquewhite;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.ISI{
+    margin-top: 3%;
+    margin-left: 38%;
+}
+
+.HASIL{
+    margin-top: 3%;
+    margin-left: 40%;
+    font-family:'Times New Roman';
+}
+
+.confirm{
+    border: 0;
+    background-color: orange;
+    margin-top: 2%;
+    padding: 5px 122px;
+}
